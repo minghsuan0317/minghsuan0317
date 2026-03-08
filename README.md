@@ -3,7 +3,7 @@
 
 ## Hi there 👋🏻
 
-I’m Ming, a Master of IT student at RMIT.<br>
+I’m Ming<br>
 This is where I share the stuff I build and practice along the way.<br>
 Take a look around! I’d love to hear your thoughts.✨
 
@@ -18,6 +18,11 @@ Take a look around! I’d love to hear your thoughts.✨
 ### [TeachTeam](https://github.com/minghsuan0317/techteam-react-ts) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" title="CSS3"/>
 A tutor selection platform built with React and TypeScript.<br>
 → Features include role-based views, form validation, and localStorage data handling.
+
+### [Swapify](https://github.com/minghsuan0317/swapify-ios) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="swift" title="swift"/> <img src="https://img.icons8.com/color/48/firebase.png" height="20" alt="firebase" title="firebase"/> <img src="https://img.icons8.com/color/48/google-logo.png" height="20" alt="google-auth" title="google-auth"/>
+A skill-exchange social platform built with SwiftUI and Firebase.
+<br>→ Implements MVVM architecture, Google Auth, Discover feed with swipe gestures, and WidgetKit integration.
+
 
 ### [Library Booking System](https://github.com/minghsuan0317/library-system-flask) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="20" alt="flask" title="flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" title="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" title="sqlite"/>
 A web app to manage book reservations with secure login and admin controls<br>→ Features includes password reset, SSL support, and responsive UI.
