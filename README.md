@@ -19,7 +19,7 @@ Take a look around! I’d love to hear your thoughts.✨
 A tutor selection platform built with React and TypeScript.<br>
 → Features include role-based views, form validation, and localStorage data handling.
 
-### [Swapify](https://github.com/minghsuan0317/swapify-ios) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="swift" title="swift"/> <img src="https://img.icons8.com/color/48/firebase.png" height="20" alt="firebase" title="firebase"/> <img src="https://img.icons8.com/color/48/google-logo.png" height="20" alt="google-auth" title="google-auth"/>
+### [Swapify](https://github.com/minghsuan0317/swapify-swiftUI) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="swift" title="swift"/> <img src="https://img.icons8.com/color/48/firebase.png" height="20" alt="firebase" title="firebase"/> <img src="https://img.icons8.com/color/48/google-logo.png" height="20" alt="google-auth" title="google-auth"/>
 A skill-exchange social platform built with SwiftUI and Firebase.
 <br>→ Implements MVVM architecture, Google Auth, Discover feed with swipe gestures, and WidgetKit integration.
 
